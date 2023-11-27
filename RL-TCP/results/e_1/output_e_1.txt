@@ -1,0 +1,4060 @@
+Observation space: Box(0, 1000000000, (15,), uint64), dtype('uint64')
+Action space: Box(0, 65535, (2,), uint64), dtype('uint64')
+State size: 15
+Action size: 3
+Start episode: 0
+Action index: 2
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 1
+Epsilon: 0.999
+Reward (sum): 2.0
+Action index: 2
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 2
+Epsilon: 0.998001
+Reward (sum): 4.0
+Action index: 1
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 3
+Epsilon: 0.997002999
+Reward (sum): 6.0
+Action index: 1
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 4
+Epsilon: 0.996005996001
+Reward (sum): 8.0
+Action index: 2
+Value initialization ...
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 5
+Epsilon: 0.995009990004999
+Reward (sum): 10.0
+Action index: 2
+Value initialization ...
+cWnd: 3404
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 6
+Epsilon: 0.994014980014994
+Reward (sum): 12.0
+Action index: 1
+Value initialization ...
+cWnd: 3404
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 7
+Epsilon: 0.993020965034979
+Reward (sum): 14.0
+Action index: 1
+Value initialization ...
+cWnd: 3404
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 8
+Epsilon: 0.9920279440699441
+Reward (sum): 16.0
+Action index: 1
+Value initialization ...
+cWnd: 3404
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 9
+Epsilon: 0.9910359161258742
+Reward (sum): 18.0
+Action index: 2
+Value initialization ...
+cWnd: 3405
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 10
+Epsilon: 0.9900448802097482
+Reward (sum): 20.0
+Action index: 0
+Value initialization ...
+cWnd: 3404
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 11
+Epsilon: 0.9890548353295385
+Reward (sum): 22.0
+Action index: 0
+Value initialization ...
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 12
+Epsilon: 0.988065780494209
+Reward (sum): 24.0
+Action index: 0
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 13
+Epsilon: 0.9870777147137147
+Reward (sum): 26.0
+Action index: 1
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 14
+Epsilon: 0.986090636999001
+Reward (sum): 28.0
+Action index: 0
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 15
+Epsilon: 0.9851045463620021
+Reward (sum): 30.0
+Action index: 1
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 16
+Epsilon: 0.98411944181564
+Reward (sum): 32.0
+Action index: 0
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 17
+Epsilon: 0.9831353223738244
+Reward (sum): 34.0
+Action index: 2
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 18
+Epsilon: 0.9821521870514506
+Reward (sum): 36.0
+Action index: 2
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 19
+Epsilon: 0.9811700348643991
+Reward (sum): 38.0
+Action index: 1
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 20
+Epsilon: 0.9801888648295347
+Reward (sum): 40.0
+Action index: 2
+Value initialization ...
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 21
+Epsilon: 0.9792086759647052
+Reward (sum): 42.0
+Action index: 2
+Value initialization ...
+cWnd: 3404
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 22
+Epsilon: 0.9782294672887405
+Reward (sum): 44.0
+Action index: 2
+Value initialization ...
+cWnd: 3405
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 23
+Epsilon: 0.9772512378214517
+Reward (sum): 46.0
+Action index: 2
+Value initialization ...
+cWnd: 3406
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 24
+Epsilon: 0.9762739865836303
+Reward (sum): 48.0
+Action index: 2
+Value initialization ...
+cWnd: 3407
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 25
+Epsilon: 0.9752977125970467
+Reward (sum): 50.0
+Action index: 1
+Value initialization ...
+cWnd: 3407
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 26
+Epsilon: 0.9743224148844496
+Reward (sum): 52.0
+Action index: 2
+Value initialization ...
+cWnd: 3408
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 27
+Epsilon: 0.9733480924695651
+Reward (sum): 54.0
+Action index: 2
+Value initialization ...
+cWnd: 3409
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 28
+Epsilon: 0.9723747443770956
+Reward (sum): 56.0
+Action index: 2
+Value initialization ...
+cWnd: 3410
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 29
+Epsilon: 0.9714023696327185
+Reward (sum): 58.0
+Action index: 2
+Value initialization ...
+cWnd: 3411
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 30
+Epsilon: 0.9704309672630859
+Reward (sum): 60.0
+Action index: 0
+Value initialization ...
+cWnd: 3410
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 31
+Epsilon: 0.9694605362958227
+Reward (sum): 62.0
+Action index: 2
+Value initialization ...
+cWnd: 3411
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 32
+Epsilon: 0.9684910757595269
+Reward (sum): 64.0
+Action index: 2
+Value initialization ...
+cWnd: 3412
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 33
+Epsilon: 0.9675225846837673
+Reward (sum): 66.0
+Action index: 1
+Value initialization ...
+cWnd: 3412
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 34
+Epsilon: 0.9665550620990835
+Reward (sum): 68.0
+Action index: 0
+Value initialization ...
+cWnd: 3411
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 35
+Epsilon: 0.9655885070369844
+Reward (sum): 70.0
+Action index: 1
+Value initialization ...
+cWnd: 3411
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 36
+Epsilon: 0.9646229185299474
+Reward (sum): 72.0
+Action index: 2
+Value initialization ...
+cWnd: 3412
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 37
+Epsilon: 0.9636582956114175
+Reward (sum): 74.0
+Action index: 0
+Value initialization ...
+cWnd: 3411
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 38
+Epsilon: 0.9626946373158061
+Reward (sum): 76.0
+Action index: 0
+Value initialization ...
+cWnd: 3410
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 39
+Epsilon: 0.9617319426784903
+Reward (sum): 78.0
+Action index: 1
+Value initialization ...
+cWnd: 3410
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 40
+Epsilon: 0.9607702107358118
+Reward (sum): 80.0
+Action index: 0
+Value initialization ...
+cWnd: 3409
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 41
+Epsilon: 0.959809440525076
+Reward (sum): 82.0
+Action index: 1
+Value initialization ...
+cWnd: 3409
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 42
+Epsilon: 0.9588496310845509
+Reward (sum): 84.0
+Action index: 2
+Value initialization ...
+cWnd: 3410
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 43
+Epsilon: 0.9578907814534664
+Reward (sum): 86.0
+Action index: 1
+Value initialization ...
+cWnd: 3410
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 44
+Epsilon: 0.9569328906720129
+Reward (sum): 88.0
+Action index: 2
+Value initialization ...
+cWnd: 3411
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 45
+Epsilon: 0.9559759577813409
+Reward (sum): 90.0
+Action index: 1
+Value initialization ...
+cWnd: 3411
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 46
+Epsilon: 0.9550199818235596
+Reward (sum): 92.0
+Action index: 0
+Value initialization ...
+cWnd: 3410
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 47
+Epsilon: 0.9540649618417361
+Reward (sum): 94.0
+Action index: 1
+Value initialization ...
+cWnd: 3410
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 48
+Epsilon: 0.9531108968798944
+Reward (sum): 96.0
+Action index: 1
+Value initialization ...
+cWnd: 3410
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 49
+Epsilon: 0.9521577859830145
+Reward (sum): 98.0
+Action index: 2
+Value initialization ...
+cWnd: 3411
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 50
+Epsilon: 0.9512056281970315
+Reward (sum): 100.0
+Action index: 1
+Value initialization ...
+cWnd: 3411
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 51
+Epsilon: 0.9502544225688344
+Reward (sum): 102.0
+Action index: 2
+Value initialization ...
+cWnd: 3412
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 52
+Epsilon: 0.9493041681462656
+Reward (sum): 104.0
+Action index: 0
+Value initialization ...
+cWnd: 3411
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 53
+Epsilon: 0.9483548639781193
+Reward (sum): 106.0
+Action index: 1
+Value initialization ...
+cWnd: 3411
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 54
+Epsilon: 0.9474065091141411
+Reward (sum): 108.0
+Action index: 1
+cWnd: 3411
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 55
+Epsilon: 0.946459102605027
+Reward (sum): 110.0
+Action index: 1
+Value initialization ...
+cWnd: 3411
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 56
+Epsilon: 0.9455126435024219
+Reward (sum): 112.0
+Action index: 1
+Value initialization ...
+cWnd: 3411
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 57
+Epsilon: 0.9445671308589195
+Reward (sum): 114.0
+Action index: 2
+Value initialization ...
+cWnd: 3412
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 58
+Epsilon: 0.9436225637280606
+Reward (sum): 116.0
+Action index: 1
+cWnd: 3412
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 59
+Epsilon: 0.9426789411643326
+Reward (sum): 118.0
+Action index: 0
+Value initialization ...
+cWnd: 3411
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 60
+Epsilon: 0.9417362622231683
+Reward (sum): 120.0
+Action index: 0
+Value initialization ...
+cWnd: 3410
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 61
+Epsilon: 0.9407945259609451
+Reward (sum): 122.0
+Action index: 0
+Value initialization ...
+cWnd: 3409
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 62
+Epsilon: 0.9398537314349842
+Reward (sum): 124.0
+Action index: 2
+Value initialization ...
+cWnd: 3410
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 63
+Epsilon: 0.9389138777035492
+Reward (sum): 126.0
+Action index: 1
+Value initialization ...
+cWnd: 3410
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 64
+Epsilon: 0.9379749638258457
+Reward (sum): 128.0
+Action index: 0
+Value initialization ...
+cWnd: 3409
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 65
+Epsilon: 0.9370369888620198
+Reward (sum): 130.0
+Action index: 1
+Value initialization ...
+cWnd: 3409
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 66
+Epsilon: 0.9360999518731578
+Reward (sum): 132.0
+Action index: 0
+Value initialization ...
+cWnd: 3408
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 67
+Epsilon: 0.9351638519212846
+Reward (sum): 134.0
+Action index: 1
+Value initialization ...
+cWnd: 3408
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 68
+Epsilon: 0.9342286880693633
+Reward (sum): 136.0
+Action index: 1
+Value initialization ...
+cWnd: 3408
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 69
+Epsilon: 0.933294459381294
+Reward (sum): 138.0
+Action index: 1
+Value initialization ...
+cWnd: 3408
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 70
+Epsilon: 0.9323611649219127
+Reward (sum): 140.0
+Action index: 0
+Value initialization ...
+cWnd: 3407
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 71
+Epsilon: 0.9314288037569908
+Reward (sum): 142.0
+Action index: 2
+Value initialization ...
+cWnd: 3408
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 72
+Epsilon: 0.9304973749532338
+Reward (sum): 144.0
+Action index: 1
+Value initialization ...
+cWnd: 3408
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 73
+Epsilon: 0.9295668775782806
+Reward (sum): 146.0
+Action index: 1
+Value initialization ...
+cWnd: 3408
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 74
+Epsilon: 0.9286373107007023
+Reward (sum): 148.0
+Action index: 2
+Value initialization ...
+cWnd: 3409
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 75
+Epsilon: 0.9277086733900016
+Reward (sum): 150.0
+Action index: 1
+Value initialization ...
+cWnd: 3409
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 76
+Epsilon: 0.9267809647166116
+Reward (sum): 152.0
+Action index: 1
+cWnd: 3409
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 77
+Epsilon: 0.925854183751895
+Reward (sum): 154.0
+Action index: 0
+Value initialization ...
+cWnd: 3408
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 78
+Epsilon: 0.9249283295681431
+Reward (sum): 156.0
+Action index: 2
+Value initialization ...
+cWnd: 3409
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 79
+Epsilon: 0.9240034012385749
+Reward (sum): 158.0
+Action index: 2
+Value initialization ...
+cWnd: 3410
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 80
+Epsilon: 0.9230793978373364
+Reward (sum): 160.0
+Action index: 1
+Value initialization ...
+cWnd: 3410
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 81
+Epsilon: 0.9221563184394991
+Reward (sum): 162.0
+Action index: 1
+Value initialization ...
+cWnd: 3410
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 82
+Epsilon: 0.9212341621210596
+Reward (sum): 164.0
+Action index: 0
+Value initialization ...
+cWnd: 3409
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 83
+Epsilon: 0.9203129279589385
+Reward (sum): 166.0
+Action index: 1
+Value initialization ...
+cWnd: 3409
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 84
+Epsilon: 0.9193926150309796
+Reward (sum): 168.0
+Action index: 0
+Value initialization ...
+cWnd: 3408
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 85
+Epsilon: 0.9184732224159486
+Reward (sum): 170.0
+Action index: 2
+Value initialization ...
+cWnd: 3409
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 86
+Epsilon: 0.9175547491935327
+Reward (sum): 172.0
+Action index: 0
+Value initialization ...
+cWnd: 3408
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 87
+Epsilon: 0.9166371944443392
+Reward (sum): 174.0
+Action index: 1
+cWnd: 3408
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 88
+Epsilon: 0.9157205572498949
+Reward (sum): 176.0
+Action index: 1
+Value initialization ...
+cWnd: 3408
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 89
+Epsilon: 0.914804836692645
+Reward (sum): 178.0
+Action index: 1
+Value initialization ...
+cWnd: 3408
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 90
+Epsilon: 0.9138900318559524
+Reward (sum): 180.0
+Action index: 0
+Value initialization ...
+cWnd: 3407
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 91
+Epsilon: 0.9129761418240965
+Reward (sum): 182.0
+Action index: 1
+Value initialization ...
+cWnd: 3407
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 92
+Epsilon: 0.9120631656822724
+Reward (sum): 184.0
+Action index: 0
+Value initialization ...
+cWnd: 3406
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 93
+Epsilon: 0.9111511025165902
+Reward (sum): 186.0
+Action index: 1
+Value initialization ...
+cWnd: 3406
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 94
+Epsilon: 0.9102399514140735
+Reward (sum): 188.0
+Action index: 2
+Value initialization ...
+cWnd: 3407
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 95
+Epsilon: 0.9093297114626595
+Reward (sum): 190.0
+Action index: 2
+Value initialization ...
+cWnd: 3408
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 96
+Epsilon: 0.9084203817511969
+Reward (sum): 192.0
+Action index: 2
+Value initialization ...
+cWnd: 3409
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 97
+Epsilon: 0.9075119613694457
+Reward (sum): 194.0
+Action index: 2
+Value initialization ...
+cWnd: 3410
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 98
+Epsilon: 0.9066044494080763
+Reward (sum): 196.0
+Action index: 1
+cWnd: 3410
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 99
+Epsilon: 0.9056978449586682
+Reward (sum): 198.0
+Action index: 1
+Value initialization ...
+cWnd: 3410
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 100
+Epsilon: 0.9047921471137096
+Reward (sum): 200.0
+Start episode: 1
+Action index: 0
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 101
+Epsilon: 0.9038873549665959
+Reward (sum): 2.0
+Action index: 2
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 102
+Epsilon: 0.9029834676116293
+Reward (sum): 4.0
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 103
+Epsilon: 0.9020804841440176
+Reward (sum): 6.0
+Action index: 0
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 104
+Epsilon: 0.9011784036598737
+Reward (sum): 8.0
+Action index: 2
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 105
+Epsilon: 0.9002772252562138
+Reward (sum): 10.0
+Action index: 0
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 106
+Epsilon: 0.8993769480309576
+Reward (sum): 12.0
+Action index: 0
+Value initialization ...
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 107
+Epsilon: 0.8984775710829266
+Reward (sum): 14.0
+Action index: 2
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 108
+Epsilon: 0.8975790935118436
+Reward (sum): 16.0
+Action index: 1
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 109
+Epsilon: 0.8966815144183318
+Reward (sum): 18.0
+Action index: 1
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 110
+Epsilon: 0.8957848329039134
+Reward (sum): 20.0
+Action index: 1
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 111
+Epsilon: 0.8948890480710096
+Reward (sum): 22.0
+Action index: 1
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 112
+Epsilon: 0.8939941590229386
+Reward (sum): 24.0
+Action index: 0
+Value initialization ...
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 113
+Epsilon: 0.8931001648639156
+Reward (sum): 26.0
+Action index: 1
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 114
+Epsilon: 0.8922070646990518
+Reward (sum): 28.0
+Action index: 2
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 115
+Epsilon: 0.8913148576343527
+Reward (sum): 30.0
+Action index: 2
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 116
+Epsilon: 0.8904235427767183
+Reward (sum): 32.0
+Action index: 1
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 117
+Epsilon: 0.8895331192339416
+Reward (sum): 34.0
+Action index: 0
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 118
+Epsilon: 0.8886435861147077
+Reward (sum): 36.0
+Action index: 2
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 119
+Epsilon: 0.887754942528593
+Reward (sum): 38.0
+Action index: 2
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 120
+Epsilon: 0.8868671875860644
+Reward (sum): 40.0
+Action index: 2
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 121
+Epsilon: 0.8859803203984784
+Reward (sum): 42.0
+Action index: 0
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 122
+Epsilon: 0.88509434007808
+Reward (sum): 44.0
+Action index: 1
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 123
+Epsilon: 0.8842092457380019
+Reward (sum): 46.0
+Action index: 1
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 124
+Epsilon: 0.8833250364922639
+Reward (sum): 48.0
+Action index: 0
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 125
+Epsilon: 0.8824417114557717
+Reward (sum): 50.0
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 126
+Epsilon: 0.8815592697443159
+Reward (sum): 52.0
+Action index: 0
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 127
+Epsilon: 0.8806777104745716
+Reward (sum): 54.0
+Action index: 2
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 128
+Epsilon: 0.8797970327640969
+Reward (sum): 56.0
+Action index: 2
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 129
+Epsilon: 0.8789172357313328
+Reward (sum): 58.0
+Action index: 1
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 130
+Epsilon: 0.8780383184956015
+Reward (sum): 60.0
+Action index: 2
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 131
+Epsilon: 0.8771602801771059
+Reward (sum): 62.0
+Action index: 2
+Value initialization ...
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 132
+Epsilon: 0.8762831198969288
+Reward (sum): 64.0
+Action index: 0
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 133
+Epsilon: 0.8754068367770318
+Reward (sum): 66.0
+Action index: 1
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 134
+Epsilon: 0.8745314299402548
+Reward (sum): 68.0
+Action index: 0
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 135
+Epsilon: 0.8736568985103146
+Reward (sum): 70.0
+Action index: 2
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 136
+Epsilon: 0.8727832416118043
+Reward (sum): 72.0
+Action index: 0
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 137
+Epsilon: 0.8719104583701925
+Reward (sum): 74.0
+Action index: 2
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 138
+Epsilon: 0.8710385479118223
+Reward (sum): 76.0
+Action index: 0
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 139
+Epsilon: 0.8701675093639105
+Reward (sum): 78.0
+Action index: 1
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 140
+Epsilon: 0.8692973418545467
+Reward (sum): 80.0
+Action index: 2
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 141
+Epsilon: 0.8684280445126921
+Reward (sum): 82.0
+Action index: 0
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 142
+Epsilon: 0.8675596164681794
+Reward (sum): 84.0
+Action index: 2
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 143
+Epsilon: 0.8666920568517111
+Reward (sum): 86.0
+Action index: 0
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 144
+Epsilon: 0.8658253647948594
+Reward (sum): 88.0
+Action index: 2
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 145
+Epsilon: 0.8649595394300645
+Reward (sum): 90.0
+Action index: 2
+Value initialization ...
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 146
+Epsilon: 0.8640945798906344
+Reward (sum): 92.0
+Action index: 0
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 147
+Epsilon: 0.8632304853107438
+Reward (sum): 94.0
+Action index: 0
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 148
+Epsilon: 0.862367254825433
+Reward (sum): 96.0
+Action index: 1
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 149
+Epsilon: 0.8615048875706075
+Reward (sum): 98.0
+Action index: 0
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 150
+Epsilon: 0.8606433826830369
+Reward (sum): 100.0
+Action index: 0
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 151
+Epsilon: 0.8597827393003539
+Reward (sum): 102.0
+Action index: 1
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 152
+Epsilon: 0.8589229565610536
+Reward (sum): 104.0
+Action index: 0
+Value initialization ...
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 153
+Epsilon: 0.8580640336044925
+Reward (sum): 106.0
+Action index: 1
+Value initialization ...
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 154
+Epsilon: 0.857205969570888
+Reward (sum): 108.0
+Action index: 2
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 155
+Epsilon: 0.8563487636013172
+Reward (sum): 110.0
+Action index: 2
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 156
+Epsilon: 0.8554924148377159
+Reward (sum): 112.0
+Action index: 2
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 157
+Epsilon: 0.8546369224228781
+Reward (sum): 114.0
+Action index: 1
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 158
+Epsilon: 0.8537822855004553
+Reward (sum): 116.0
+Action index: 1
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 159
+Epsilon: 0.8529285032149548
+Reward (sum): 118.0
+Action index: 2
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 160
+Epsilon: 0.8520755747117399
+Reward (sum): 120.0
+Action index: 0
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 161
+Epsilon: 0.8512234991370281
+Reward (sum): 122.0
+Action index: 0
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 162
+Epsilon: 0.8503722756378911
+Reward (sum): 124.0
+Action index: 1
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 163
+Epsilon: 0.8495219033622532
+Reward (sum): 126.0
+Action index: 0
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 164
+Epsilon: 0.8486723814588909
+Reward (sum): 128.0
+Action index: 1
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 165
+Epsilon: 0.847823709077432
+Reward (sum): 130.0
+Action index: 2
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 166
+Epsilon: 0.8469758853683546
+Reward (sum): 132.0
+Action index: 2
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 167
+Epsilon: 0.8461289094829862
+Reward (sum): 134.0
+Action index: 1
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 168
+Epsilon: 0.8452827805735033
+Reward (sum): 136.0
+Action index: 1
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 169
+Epsilon: 0.8444374977929298
+Reward (sum): 138.0
+Action index: 1
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 170
+Epsilon: 0.8435930602951368
+Reward (sum): 140.0
+Action index: 2
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 171
+Epsilon: 0.8427494672348417
+Reward (sum): 142.0
+Action index: 2
+Value initialization ...
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 172
+Epsilon: 0.8419067177676068
+Reward (sum): 144.0
+Action index: 2
+Value initialization ...
+cWnd: 3404
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 173
+Epsilon: 0.8410648110498392
+Reward (sum): 146.0
+Action index: 0
+Value initialization ...
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 174
+Epsilon: 0.8402237462387894
+Reward (sum): 148.0
+Action index: 2
+Value initialization ...
+cWnd: 3404
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 175
+Epsilon: 0.8393835224925505
+Reward (sum): 150.0
+Action index: 1
+Value initialization ...
+cWnd: 3404
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 176
+Epsilon: 0.838544138970058
+Reward (sum): 152.0
+Action index: 0
+Value initialization ...
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 177
+Epsilon: 0.8377055948310879
+Reward (sum): 154.0
+Action index: 1
+Value initialization ...
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 178
+Epsilon: 0.8368678892362568
+Reward (sum): 156.0
+Action index: 1
+Value initialization ...
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 179
+Epsilon: 0.8360310213470206
+Reward (sum): 158.0
+Action index: 1
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 180
+Epsilon: 0.8351949903256736
+Reward (sum): 160.0
+Action index: 1
+Value initialization ...
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 181
+Epsilon: 0.8343597953353479
+Reward (sum): 162.0
+Action index: 2
+Value initialization ...
+cWnd: 3404
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 182
+Epsilon: 0.8335254355400126
+Reward (sum): 164.0
+Action index: 1
+cWnd: 3404
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 183
+Epsilon: 0.8326919101044725
+Reward (sum): 166.0
+Action index: 1
+cWnd: 3404
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 184
+Epsilon: 0.831859218194368
+Reward (sum): 168.0
+Action index: 0
+Value initialization ...
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 185
+Epsilon: 0.8310273589761736
+Reward (sum): 170.0
+Action index: 0
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 186
+Epsilon: 0.8301963316171974
+Reward (sum): 172.0
+Action index: 2
+Value initialization ...
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 187
+Epsilon: 0.8293661352855802
+Reward (sum): 174.0
+Action index: 0
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 188
+Epsilon: 0.8285367691502946
+Reward (sum): 176.0
+Action index: 1
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 189
+Epsilon: 0.8277082323811443
+Reward (sum): 178.0
+Action index: 1
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 190
+Epsilon: 0.8268805241487632
+Reward (sum): 180.0
+Action index: 1
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 191
+Epsilon: 0.8260536436246144
+Reward (sum): 182.0
+Action index: 1
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 192
+Epsilon: 0.8252275899809898
+Reward (sum): 184.0
+Action index: 2
+Value initialization ...
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 193
+Epsilon: 0.8244023623910088
+Reward (sum): 186.0
+Action index: 0
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 194
+Epsilon: 0.8235779600286178
+Reward (sum): 188.0
+Action index: 1
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 195
+Epsilon: 0.8227543820685892
+Reward (sum): 190.0
+Action index: 1
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 196
+Epsilon: 0.8219316276865206
+Reward (sum): 192.0
+Action index: 1
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 197
+Epsilon: 0.8211096960588341
+Reward (sum): 194.0
+Action index: 2
+Value initialization ...
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 198
+Epsilon: 0.8202885863627752
+Reward (sum): 196.0
+Action index: 0
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 199
+Epsilon: 0.8194682977764125
+Reward (sum): 198.0
+Action index: 2
+Value initialization ...
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 200
+Epsilon: 0.818648829478636
+Reward (sum): 200.0
+Start episode: 2
+Action index: 2
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 201
+Epsilon: 0.8178301806491574
+Reward (sum): 2.0
+Action index: 1
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 202
+Epsilon: 0.8170123504685082
+Reward (sum): 4.0
+Action index: 0
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 203
+Epsilon: 0.8161953381180397
+Reward (sum): 6.0
+Action index: 0
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 204
+Epsilon: 0.8153791427799216
+Reward (sum): 8.0
+Action index: 0
+Value initialization ...
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 205
+Epsilon: 0.8145637636371417
+Reward (sum): 10.0
+Action index: 1
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 206
+Epsilon: 0.8137491998735046
+Reward (sum): 12.0
+Action index: 0
+Value initialization ...
+cWnd: 3397
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 207
+Epsilon: 0.812935450673631
+Reward (sum): 14.0
+Action index: 2
+Value initialization ...
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 208
+Epsilon: 0.8121225152229574
+Reward (sum): 16.0
+Action index: 2
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 209
+Epsilon: 0.8113103927077344
+Reward (sum): 18.0
+Action index: 1
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 210
+Epsilon: 0.8104990823150267
+Reward (sum): 20.0
+Action index: 1
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 211
+Epsilon: 0.8096885832327116
+Reward (sum): 22.0
+Action index: 0
+Value initialization ...
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 212
+Epsilon: 0.8088788946494789
+Reward (sum): 24.0
+Action index: 0
+Value initialization ...
+cWnd: 3397
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 213
+Epsilon: 0.8080700157548294
+Reward (sum): 26.0
+Action index: 1
+cWnd: 3397
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 214
+Epsilon: 0.8072619457390746
+Reward (sum): 28.0
+Action index: 2
+Value initialization ...
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 215
+Epsilon: 0.8064546837933355
+Reward (sum): 30.0
+Action index: 2
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 216
+Epsilon: 0.8056482291095421
+Reward (sum): 32.0
+Action index: 0
+Value initialization ...
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 217
+Epsilon: 0.8048425808804326
+Reward (sum): 34.0
+Action index: 0
+Value initialization ...
+cWnd: 3397
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 218
+Epsilon: 0.8040377382995522
+Reward (sum): 36.0
+Action index: 2
+Value initialization ...
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 219
+Epsilon: 0.8032337005612527
+Reward (sum): 38.0
+Action index: 0
+Value initialization ...
+cWnd: 3397
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 220
+Epsilon: 0.8024304668606914
+Reward (sum): 40.0
+Action index: 1
+cWnd: 3397
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 221
+Epsilon: 0.8016280363938307
+Reward (sum): 42.0
+Action index: 1
+Value initialization ...
+cWnd: 3397
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 222
+Epsilon: 0.8008264083574369
+Reward (sum): 44.0
+Action index: 0
+Value initialization ...
+cWnd: 3396
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 223
+Epsilon: 0.8000255819490795
+Reward (sum): 46.0
+Action index: 1
+cWnd: 3396
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 224
+Epsilon: 0.7992255563671304
+Reward (sum): 48.0
+Action index: 0
+Value initialization ...
+cWnd: 3395
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 225
+Epsilon: 0.7984263308107633
+Reward (sum): 50.0
+Action index: 1
+Value initialization ...
+cWnd: 3395
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 226
+Epsilon: 0.7976279044799526
+Reward (sum): 52.0
+Action index: 0
+Value initialization ...
+cWnd: 3394
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 227
+Epsilon: 0.7968302765754727
+Reward (sum): 54.0
+Action index: 2
+Value initialization ...
+cWnd: 3395
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 228
+Epsilon: 0.7960334462988972
+Reward (sum): 56.0
+Action index: 1
+Value initialization ...
+cWnd: 3395
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 229
+Epsilon: 0.7952374128525983
+Reward (sum): 58.0
+Action index: 1
+Value initialization ...
+cWnd: 3395
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 230
+Epsilon: 0.7944421754397457
+Reward (sum): 60.0
+Action index: 1
+cWnd: 3395
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 231
+Epsilon: 0.7936477332643059
+Reward (sum): 62.0
+Action index: 0
+Value initialization ...
+cWnd: 3394
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 232
+Epsilon: 0.7928540855310416
+Reward (sum): 64.0
+Action index: 1
+Value initialization ...
+cWnd: 3394
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 233
+Epsilon: 0.7920612314455105
+Reward (sum): 66.0
+Action index: 2
+Value initialization ...
+cWnd: 3395
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 234
+Epsilon: 0.7912691702140651
+Reward (sum): 68.0
+Action index: 1
+cWnd: 3395
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 235
+Epsilon: 0.790477901043851
+Reward (sum): 70.0
+Action index: 2
+Value initialization ...
+cWnd: 3396
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 236
+Epsilon: 0.7896874231428072
+Reward (sum): 72.0
+Action index: 1
+cWnd: 3396
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 237
+Epsilon: 0.7888977357196644
+Reward (sum): 74.0
+Action index: 1
+Value initialization ...
+cWnd: 3396
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 238
+Epsilon: 0.7881088379839447
+Reward (sum): 76.0
+Action index: 1
+cWnd: 3396
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 239
+Epsilon: 0.7873207291459607
+Reward (sum): 78.0
+Action index: 2
+Value initialization ...
+cWnd: 3397
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 240
+Epsilon: 0.7865334084168147
+Reward (sum): 80.0
+Action index: 1
+Value initialization ...
+cWnd: 3397
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 241
+Epsilon: 0.7857468750083979
+Reward (sum): 82.0
+Action index: 1
+Value initialization ...
+cWnd: 3397
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 242
+Epsilon: 0.7849611281333895
+Reward (sum): 84.0
+Action index: 2
+Value initialization ...
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 243
+Epsilon: 0.784176167005256
+Reward (sum): 86.0
+Action index: 2
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 244
+Epsilon: 0.7833919908382508
+Reward (sum): 88.0
+Action index: 1
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 245
+Epsilon: 0.7826085988474126
+Reward (sum): 90.0
+Action index: 1
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 246
+Epsilon: 0.7818259902485653
+Reward (sum): 92.0
+Action index: 1
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 247
+Epsilon: 0.7810441642583167
+Reward (sum): 94.0
+Action index: 2
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 248
+Epsilon: 0.7802631200940584
+Reward (sum): 96.0
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 249
+Epsilon: 0.7794828569739644
+Reward (sum): 98.0
+Action index: 2
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 250
+Epsilon: 0.7787033741169904
+Reward (sum): 100.0
+Action index: 2
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 251
+Epsilon: 0.7779246707428734
+Reward (sum): 102.0
+Action index: 1
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 252
+Epsilon: 0.7771467460721305
+Reward (sum): 104.0
+Action index: 1
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 253
+Epsilon: 0.7763695993260584
+Reward (sum): 106.0
+Action index: 1
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 254
+Epsilon: 0.7755932297267324
+Reward (sum): 108.0
+Action index: 0
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 255
+Epsilon: 0.7748176364970056
+Reward (sum): 110.0
+Action index: 1
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 256
+Epsilon: 0.7740428188605086
+Reward (sum): 112.0
+Action index: 1
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 257
+Epsilon: 0.7732687760416481
+Reward (sum): 114.0
+Action index: 0
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 258
+Epsilon: 0.7724955072656065
+Reward (sum): 116.0
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 259
+Epsilon: 0.7717230117583408
+Reward (sum): 118.0
+Action index: 0
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 260
+Epsilon: 0.7709512887465825
+Reward (sum): 120.0
+Action index: 1
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 261
+Epsilon: 0.7701803374578359
+Reward (sum): 122.0
+Action index: 2
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 262
+Epsilon: 0.7694101571203781
+Reward (sum): 124.0
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 263
+Epsilon: 0.7686407469632577
+Reward (sum): 126.0
+Action index: 1
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 264
+Epsilon: 0.7678721062162944
+Reward (sum): 128.0
+Action index: 2
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 265
+Epsilon: 0.7671042341100781
+Reward (sum): 130.0
+Action index: 1
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 266
+Epsilon: 0.766337129875968
+Reward (sum): 132.0
+Action index: 1
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 267
+Epsilon: 0.7655707927460921
+Reward (sum): 134.0
+Action index: 0
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 268
+Epsilon: 0.764805221953346
+Reward (sum): 136.0
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 269
+Epsilon: 0.7640404167313927
+Reward (sum): 138.0
+Action index: 0
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 270
+Epsilon: 0.7632763763146613
+Reward (sum): 140.0
+Action index: 1
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 271
+Epsilon: 0.7625130999383466
+Reward (sum): 142.0
+Action index: 0
+Value initialization ...
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 272
+Epsilon: 0.7617505868384082
+Reward (sum): 144.0
+Action index: 1
+Value initialization ...
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 273
+Epsilon: 0.7609888362515699
+Reward (sum): 146.0
+Action index: 1
+Value initialization ...
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 274
+Epsilon: 0.7602278474153183
+Reward (sum): 148.0
+Action index: 1
+Value initialization ...
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 275
+Epsilon: 0.759467619567903
+Reward (sum): 150.0
+Action index: 2
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 276
+Epsilon: 0.7587081519483351
+Reward (sum): 152.0
+Action index: 1
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 277
+Epsilon: 0.7579494437963867
+Reward (sum): 154.0
+Action index: 1
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 278
+Epsilon: 0.7571914943525904
+Reward (sum): 156.0
+Action index: 1
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 279
+Epsilon: 0.7564343028582378
+Reward (sum): 158.0
+Action index: 2
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 280
+Epsilon: 0.7556778685553796
+Reward (sum): 160.0
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 281
+Epsilon: 0.7549221906868242
+Reward (sum): 162.0
+Action index: 1
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 282
+Epsilon: 0.7541672684961374
+Reward (sum): 164.0
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 283
+Epsilon: 0.7534131012276413
+Reward (sum): 166.0
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 284
+Epsilon: 0.7526596881264136
+Reward (sum): 168.0
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 285
+Epsilon: 0.7519070284382872
+Reward (sum): 170.0
+Action index: 1
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 286
+Epsilon: 0.7511551214098489
+Reward (sum): 172.0
+Action index: 0
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 287
+Epsilon: 0.750403966288439
+Reward (sum): 174.0
+Action index: 1
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 288
+Epsilon: 0.7496535623221505
+Reward (sum): 176.0
+Action index: 2
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 289
+Epsilon: 0.7489039087598284
+Reward (sum): 178.0
+Action index: 0
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 290
+Epsilon: 0.7481550048510686
+Reward (sum): 180.0
+Action index: 1
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 291
+Epsilon: 0.7474068498462175
+Reward (sum): 182.0
+Action index: 0
+Value initialization ...
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 292
+Epsilon: 0.7466594429963713
+Reward (sum): 184.0
+Action index: 1
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 293
+Epsilon: 0.745912783553375
+Reward (sum): 186.0
+Action index: 2
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 294
+Epsilon: 0.7451668707698216
+Reward (sum): 188.0
+Action index: 1
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 295
+Epsilon: 0.7444217038990517
+Reward (sum): 190.0
+Action index: 1
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 296
+Epsilon: 0.7436772821951526
+Reward (sum): 192.0
+Action index: 0
+Value initialization ...
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 297
+Epsilon: 0.7429336049129575
+Reward (sum): 194.0
+Action index: 1
+Value initialization ...
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 298
+Epsilon: 0.7421906713080445
+Reward (sum): 196.0
+Action index: 2
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 299
+Epsilon: 0.7414484806367364
+Reward (sum): 198.0
+Action index: 2
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 300
+Epsilon: 0.7407070321560997
+Reward (sum): 200.0
+Start episode: 3
+Action index: 2
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 301
+Epsilon: 0.7399663251239436
+Reward (sum): 2.0
+Action index: 1
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 302
+Epsilon: 0.7392263587988196
+Reward (sum): 4.0
+Action index: 1
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 303
+Epsilon: 0.7384871324400207
+Reward (sum): 6.0
+Action index: 0
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 304
+Epsilon: 0.7377486453075807
+Reward (sum): 8.0
+Action index: 1
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 305
+Epsilon: 0.737010896662273
+Reward (sum): 10.0
+Action index: 1
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 306
+Epsilon: 0.7362738857656108
+Reward (sum): 12.0
+Action index: 1
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 307
+Epsilon: 0.7355376118798452
+Reward (sum): 14.0
+Action index: 0
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 308
+Epsilon: 0.7348020742679654
+Reward (sum): 16.0
+Action index: 1
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 309
+Epsilon: 0.7340672721936974
+Reward (sum): 18.0
+Action index: 1
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 310
+Epsilon: 0.7333332049215037
+Reward (sum): 20.0
+Action index: 0
+Value initialization ...
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 311
+Epsilon: 0.7325998717165821
+Reward (sum): 22.0
+Action index: 1
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 312
+Epsilon: 0.7318672718448656
+Reward (sum): 24.0
+Action index: 2
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 313
+Epsilon: 0.7311354045730207
+Reward (sum): 26.0
+Action index: 2
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 314
+Epsilon: 0.7304042691684477
+Reward (sum): 28.0
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 315
+Epsilon: 0.7296738648992792
+Reward (sum): 30.0
+Action index: 1
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 316
+Epsilon: 0.7289441910343799
+Reward (sum): 32.0
+Action index: 1
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 317
+Epsilon: 0.7282152468433455
+Reward (sum): 34.0
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 318
+Epsilon: 0.7274870315965022
+Reward (sum): 36.0
+Action index: 0
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 319
+Epsilon: 0.7267595445649057
+Reward (sum): 38.0
+Action index: 2
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 320
+Epsilon: 0.7260327850203407
+Reward (sum): 40.0
+Action index: 2
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 321
+Epsilon: 0.7253067522353204
+Reward (sum): 42.0
+Action index: 1
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 322
+Epsilon: 0.724581445483085
+Reward (sum): 44.0
+Action index: 1
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 323
+Epsilon: 0.723856864037602
+Reward (sum): 46.0
+Action index: 1
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 324
+Epsilon: 0.7231330071735643
+Reward (sum): 48.0
+Action index: 2
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 325
+Epsilon: 0.7224098741663908
+Reward (sum): 50.0
+Action index: 2
+Value initialization ...
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 326
+Epsilon: 0.7216874642922244
+Reward (sum): 52.0
+Action index: 1
+Value initialization ...
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 327
+Epsilon: 0.7209657768279322
+Reward (sum): 54.0
+Action index: 0
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 328
+Epsilon: 0.7202448110511043
+Reward (sum): 56.0
+Action index: 2
+Value initialization ...
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 329
+Epsilon: 0.7195245662400531
+Reward (sum): 58.0
+Action index: 1
+Value initialization ...
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 330
+Epsilon: 0.7188050416738131
+Reward (sum): 60.0
+Action index: 1
+Value initialization ...
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 331
+Epsilon: 0.7180862366321393
+Reward (sum): 62.0
+Action index: 0
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 332
+Epsilon: 0.7173681503955072
+Reward (sum): 64.0
+Action index: 0
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 333
+Epsilon: 0.7166507822451117
+Reward (sum): 66.0
+Action index: 1
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 334
+Epsilon: 0.7159341314628666
+Reward (sum): 68.0
+Action index: 2
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 335
+Epsilon: 0.7152181973314037
+Reward (sum): 70.0
+Action index: 0
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 336
+Epsilon: 0.7145029791340722
+Reward (sum): 72.0
+Action index: 1
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 337
+Epsilon: 0.7137884761549381
+Reward (sum): 74.0
+Action index: 0
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 338
+Epsilon: 0.7130746876787832
+Reward (sum): 76.0
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 339
+Epsilon: 0.7123616129911045
+Reward (sum): 78.0
+Action index: 1
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 340
+Epsilon: 0.7116492513781133
+Reward (sum): 80.0
+Action index: 2
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 341
+Epsilon: 0.7109376021267352
+Reward (sum): 82.0
+Action index: 1
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 342
+Epsilon: 0.7102266645246085
+Reward (sum): 84.0
+Action index: 1
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 343
+Epsilon: 0.7095164378600839
+Reward (sum): 86.0
+Action index: 2
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 344
+Epsilon: 0.7088069214222238
+Reward (sum): 88.0
+Action index: 1
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 345
+Epsilon: 0.7080981145008015
+Reward (sum): 90.0
+Action index: 0
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 346
+Epsilon: 0.7073900163863007
+Reward (sum): 92.0
+Action index: 1
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 347
+Epsilon: 0.7066826263699144
+Reward (sum): 94.0
+Action index: 2
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 348
+Epsilon: 0.7059759437435444
+Reward (sum): 96.0
+Action index: 0
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 349
+Epsilon: 0.7052699677998009
+Reward (sum): 98.0
+Action index: 2
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 350
+Epsilon: 0.704564697832001
+Reward (sum): 100.0
+Action index: 2
+Value initialization ...
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 351
+Epsilon: 0.7038601331341691
+Reward (sum): 102.0
+Action index: 0
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 352
+Epsilon: 0.7031562730010349
+Reward (sum): 104.0
+Action index: 0
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 353
+Epsilon: 0.7024531167280339
+Reward (sum): 106.0
+Action index: 0
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 354
+Epsilon: 0.7017506636113059
+Reward (sum): 108.0
+Action index: 1
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 355
+Epsilon: 0.7010489129476946
+Reward (sum): 110.0
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 356
+Epsilon: 0.7003478640347469
+Reward (sum): 112.0
+Action index: 0
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 357
+Epsilon: 0.6996475161707122
+Reward (sum): 114.0
+Action index: 1
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 358
+Epsilon: 0.6989478686545415
+Reward (sum): 116.0
+Action index: 2
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 359
+Epsilon: 0.698248920785887
+Reward (sum): 118.0
+Action index: 2
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 360
+Epsilon: 0.6975506718651011
+Reward (sum): 120.0
+Action index: 1
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 361
+Epsilon: 0.6968531211932361
+Reward (sum): 122.0
+Action index: 1
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 362
+Epsilon: 0.6961562680720428
+Reward (sum): 124.0
+Action index: 1
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 363
+Epsilon: 0.6954601118039707
+Reward (sum): 126.0
+Action index: 0
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 364
+Epsilon: 0.6947646516921667
+Reward (sum): 128.0
+Action index: 0
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 365
+Epsilon: 0.6940698870404746
+Reward (sum): 130.0
+Action index: 1
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 366
+Epsilon: 0.6933758171534341
+Reward (sum): 132.0
+Action index: 1
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 367
+Epsilon: 0.6926824413362807
+Reward (sum): 134.0
+Action index: 2
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 368
+Epsilon: 0.6919897588949444
+Reward (sum): 136.0
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 369
+Epsilon: 0.6912977691360495
+Reward (sum): 138.0
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 370
+Epsilon: 0.6906064713669134
+Reward (sum): 140.0
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 371
+Epsilon: 0.6899158648955466
+Reward (sum): 142.0
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 372
+Epsilon: 0.689225949030651
+Reward (sum): 144.0
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 373
+Epsilon: 0.6885367230816204
+Reward (sum): 146.0
+Action index: 1
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 374
+Epsilon: 0.6878481863585387
+Reward (sum): 148.0
+Action index: 1
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 375
+Epsilon: 0.6871603381721801
+Reward (sum): 150.0
+Action index: 2
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 376
+Epsilon: 0.686473177834008
+Reward (sum): 152.0
+Action index: 2
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 377
+Epsilon: 0.685786704656174
+Reward (sum): 154.0
+Action index: 2
+Value initialization ...
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 378
+Epsilon: 0.6851009179515178
+Reward (sum): 156.0
+Action index: 0
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 379
+Epsilon: 0.6844158170335664
+Reward (sum): 158.0
+Action index: 0
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 380
+Epsilon: 0.6837314012165328
+Reward (sum): 160.0
+Action index: 1
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 381
+Epsilon: 0.6830476698153162
+Reward (sum): 162.0
+Action index: 1
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 382
+Epsilon: 0.6823646221455009
+Reward (sum): 164.0
+Action index: 1
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 383
+Epsilon: 0.6816822575233553
+Reward (sum): 166.0
+Action index: 1
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 384
+Epsilon: 0.6810005752658319
+Reward (sum): 168.0
+Action index: 2
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 385
+Epsilon: 0.680319574690566
+Reward (sum): 170.0
+Action index: 2
+Value initialization ...
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 386
+Epsilon: 0.6796392551158754
+Reward (sum): 172.0
+Action index: 1
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 387
+Epsilon: 0.6789596158607596
+Reward (sum): 174.0
+Action index: 0
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 388
+Epsilon: 0.6782806562448989
+Reward (sum): 176.0
+Action index: 0
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 389
+Epsilon: 0.677602375588654
+Reward (sum): 178.0
+Action index: 0
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 390
+Epsilon: 0.6769247732130653
+Reward (sum): 180.0
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 391
+Epsilon: 0.6762478484398523
+Reward (sum): 182.0
+Action index: 1
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 392
+Epsilon: 0.6755716005914124
+Reward (sum): 184.0
+Action index: 2
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 393
+Epsilon: 0.674896028990821
+Reward (sum): 186.0
+Action index: 2
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 394
+Epsilon: 0.6742211329618302
+Reward (sum): 188.0
+Action index: 1
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 395
+Epsilon: 0.6735469118288684
+Reward (sum): 190.0
+Action index: 2
+Value initialization ...
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 396
+Epsilon: 0.6728733649170395
+Reward (sum): 192.0
+Action index: 1
+Value initialization ...
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 397
+Epsilon: 0.6722004915521225
+Reward (sum): 194.0
+Action index: 2
+Value initialization ...
+cWnd: 3404
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 398
+Epsilon: 0.6715282910605703
+Reward (sum): 196.0
+Action index: 1
+cWnd: 3404
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 399
+Epsilon: 0.6708567627695098
+Reward (sum): 198.0
+Action index: 0
+Value initialization ...
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 400
+Epsilon: 0.6701859060067403
+Reward (sum): 200.0
+Start episode: 4
+Action index: 1
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 401
+Epsilon: 0.6695157201007336
+Reward (sum): 2.0
+Action index: 2
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 402
+Epsilon: 0.6688462043806328
+Reward (sum): 4.0
+Action index: 2
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 403
+Epsilon: 0.6681773581762521
+Reward (sum): 6.0
+Action index: 1
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 404
+Epsilon: 0.6675091808180759
+Reward (sum): 8.0
+Action index: 2
+Value initialization ...
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 405
+Epsilon: 0.6668416716372578
+Reward (sum): 10.0
+Action index: 2
+Value initialization ...
+cWnd: 3404
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 406
+Epsilon: 0.6661748299656206
+Reward (sum): 12.0
+Action index: 1
+Value initialization ...
+cWnd: 3404
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 407
+Epsilon: 0.6655086551356549
+Reward (sum): 14.0
+Action index: 2
+Value initialization ...
+cWnd: 3405
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 408
+Epsilon: 0.6648431464805192
+Reward (sum): 16.0
+Action index: 0
+Value initialization ...
+cWnd: 3404
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 409
+Epsilon: 0.6641783033340387
+Reward (sum): 18.0
+Action index: 0
+Value initialization ...
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 410
+Epsilon: 0.6635141250307047
+Reward (sum): 20.0
+Action index: 2
+Value initialization ...
+cWnd: 3404
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 411
+Epsilon: 0.662850610905674
+Reward (sum): 22.0
+Action index: 1
+Value initialization ...
+cWnd: 3404
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 412
+Epsilon: 0.6621877602947683
+Reward (sum): 24.0
+Action index: 1
+cWnd: 3404
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 413
+Epsilon: 0.6615255725344735
+Reward (sum): 26.0
+Action index: 1
+cWnd: 3404
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 414
+Epsilon: 0.660864046961939
+Reward (sum): 28.0
+Action index: 0
+Value initialization ...
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 415
+Epsilon: 0.660203182914977
+Reward (sum): 30.0
+Action index: 1
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 416
+Epsilon: 0.6595429797320621
+Reward (sum): 32.0
+Action index: 1
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 417
+Epsilon: 0.6588834367523301
+Reward (sum): 34.0
+Action index: 0
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 418
+Epsilon: 0.6582245533155777
+Reward (sum): 36.0
+Action index: 1
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 419
+Epsilon: 0.6575663287622622
+Reward (sum): 38.0
+Action index: 1
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 420
+Epsilon: 0.6569087624334999
+Reward (sum): 40.0
+Action index: 1
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 421
+Epsilon: 0.6562518536710664
+Reward (sum): 42.0
+Action index: 1
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 422
+Epsilon: 0.6555956018173954
+Reward (sum): 44.0
+Action index: 0
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 423
+Epsilon: 0.654940006215578
+Reward (sum): 46.0
+Action index: 0
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 424
+Epsilon: 0.6542850662093624
+Reward (sum): 48.0
+Action index: 2
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 425
+Epsilon: 0.6536307811431531
+Reward (sum): 50.0
+Action index: 0
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 426
+Epsilon: 0.65297715036201
+Reward (sum): 52.0
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 427
+Epsilon: 0.6523241732116479
+Reward (sum): 54.0
+Action index: 0
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 428
+Epsilon: 0.6516718490384363
+Reward (sum): 56.0
+Action index: 1
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 429
+Epsilon: 0.6510201771893979
+Reward (sum): 58.0
+Action index: 2
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 430
+Epsilon: 0.6503691570122084
+Reward (sum): 60.0
+Action index: 1
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 431
+Epsilon: 0.6497187878551962
+Reward (sum): 62.0
+Action index: 1
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 432
+Epsilon: 0.649069069067341
+Reward (sum): 64.0
+Action index: 0
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 433
+Epsilon: 0.6484199999982736
+Reward (sum): 66.0
+Action index: 0
+Value initialization ...
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 434
+Epsilon: 0.6477715799982753
+Reward (sum): 68.0
+Action index: 0
+Value initialization ...
+cWnd: 3397
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 435
+Epsilon: 0.647123808418277
+Reward (sum): 70.0
+Action index: 1
+cWnd: 3397
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 436
+Epsilon: 0.6464766846098587
+Reward (sum): 72.0
+Action index: 0
+Value initialization ...
+cWnd: 3396
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 437
+Epsilon: 0.6458302079252489
+Reward (sum): 74.0
+Action index: 2
+Value initialization ...
+cWnd: 3397
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 438
+Epsilon: 0.6451843777173236
+Reward (sum): 76.0
+Action index: 1
+Value initialization ...
+cWnd: 3397
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 439
+Epsilon: 0.6445391933396063
+Reward (sum): 78.0
+Action index: 0
+Value initialization ...
+cWnd: 3396
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 440
+Epsilon: 0.6438946541462667
+Reward (sum): 80.0
+Action index: 1
+cWnd: 3396
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 441
+Epsilon: 0.6432507594921204
+Reward (sum): 82.0
+Action index: 0
+Value initialization ...
+cWnd: 3395
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 442
+Epsilon: 0.6426075087326283
+Reward (sum): 84.0
+Action index: 1
+cWnd: 3395
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 443
+Epsilon: 0.6419649012238956
+Reward (sum): 86.0
+Action index: 1
+Value initialization ...
+cWnd: 3395
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 444
+Epsilon: 0.6413229363226717
+Reward (sum): 88.0
+Action index: 1
+Value initialization ...
+cWnd: 3395
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 445
+Epsilon: 0.640681613386349
+Reward (sum): 90.0
+Action index: 1
+Value initialization ...
+cWnd: 3395
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 446
+Epsilon: 0.6400409317729626
+Reward (sum): 92.0
+Action index: 0
+Value initialization ...
+cWnd: 3394
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 447
+Epsilon: 0.6394008908411897
+Reward (sum): 94.0
+Action index: 1
+Value initialization ...
+cWnd: 3394
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 448
+Epsilon: 0.6387614899503485
+Reward (sum): 96.0
+Action index: 0
+Value initialization ...
+cWnd: 3393
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 449
+Epsilon: 0.6381227284603982
+Reward (sum): 98.0
+Action index: 1
+Value initialization ...
+cWnd: 3393
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 450
+Epsilon: 0.6374846057319378
+Reward (sum): 100.0
+Action index: 1
+cWnd: 3393
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 451
+Epsilon: 0.6368471211262058
+Reward (sum): 102.0
+Action index: 2
+Value initialization ...
+cWnd: 3394
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 452
+Epsilon: 0.6362102740050796
+Reward (sum): 104.0
+Action index: 1
+Value initialization ...
+cWnd: 3394
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 453
+Epsilon: 0.6355740637310745
+Reward (sum): 106.0
+Action index: 2
+Value initialization ...
+cWnd: 3395
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 454
+Epsilon: 0.6349384896673435
+Reward (sum): 108.0
+Action index: 1
+Value initialization ...
+cWnd: 3395
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 455
+Epsilon: 0.6343035511776761
+Reward (sum): 110.0
+Action index: 0
+Value initialization ...
+cWnd: 3394
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 456
+Epsilon: 0.6336692476264985
+Reward (sum): 112.0
+Action index: 0
+Value initialization ...
+cWnd: 3393
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 457
+Epsilon: 0.6330355783788719
+Reward (sum): 114.0
+Action index: 0
+Value initialization ...
+cWnd: 3392
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 458
+Epsilon: 0.632402542800493
+Reward (sum): 116.0
+Action index: 1
+cWnd: 3392
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 459
+Epsilon: 0.6317701402576925
+Reward (sum): 118.0
+Action index: 2
+Value initialization ...
+cWnd: 3393
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 460
+Epsilon: 0.6311383701174348
+Reward (sum): 120.0
+Action index: 1
+Value initialization ...
+cWnd: 3393
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 461
+Epsilon: 0.6305072317473174
+Reward (sum): 122.0
+Action index: 1
+cWnd: 3393
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 462
+Epsilon: 0.6298767245155701
+Reward (sum): 124.0
+Action index: 1
+cWnd: 3393
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 463
+Epsilon: 0.6292468477910546
+Reward (sum): 126.0
+Action index: 1
+cWnd: 3393
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 464
+Epsilon: 0.6286176009432635
+Reward (sum): 128.0
+Action index: 1
+cWnd: 3393
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 465
+Epsilon: 0.6279889833423202
+Reward (sum): 130.0
+Action index: 1
+cWnd: 3393
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 466
+Epsilon: 0.6273609943589779
+Reward (sum): 132.0
+Action index: 1
+cWnd: 3393
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 467
+Epsilon: 0.6267336333646188
+Reward (sum): 134.0
+Action index: 1
+cWnd: 3393
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 468
+Epsilon: 0.6261068997312542
+Reward (sum): 136.0
+Action index: 1
+cWnd: 3393
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 469
+Epsilon: 0.6254807928315229
+Reward (sum): 138.0
+Action index: 2
+Value initialization ...
+cWnd: 3394
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 470
+Epsilon: 0.6248553120386914
+Reward (sum): 140.0
+Action index: 1
+Value initialization ...
+cWnd: 3394
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 471
+Epsilon: 0.6242304567266527
+Reward (sum): 142.0
+Action index: 1
+Value initialization ...
+cWnd: 3394
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 472
+Epsilon: 0.623606226269926
+Reward (sum): 144.0
+Action index: 2
+Value initialization ...
+cWnd: 3395
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 473
+Epsilon: 0.6229826200436561
+Reward (sum): 146.0
+Action index: 1
+cWnd: 3395
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 474
+Epsilon: 0.6223596374236124
+Reward (sum): 148.0
+Action index: 1
+cWnd: 3395
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 475
+Epsilon: 0.6217372777861888
+Reward (sum): 150.0
+Action index: 0
+Value initialization ...
+cWnd: 3394
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 476
+Epsilon: 0.6211155405084027
+Reward (sum): 152.0
+Action index: 1
+Value initialization ...
+cWnd: 3394
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 477
+Epsilon: 0.6204944249678943
+Reward (sum): 154.0
+Action index: 1
+cWnd: 3394
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 478
+Epsilon: 0.6198739305429264
+Reward (sum): 156.0
+Action index: 1
+cWnd: 3394
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 479
+Epsilon: 0.6192540566123834
+Reward (sum): 158.0
+Action index: 1
+Value initialization ...
+cWnd: 3394
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 480
+Epsilon: 0.6186348025557711
+Reward (sum): 160.0
+Action index: 0
+Value initialization ...
+cWnd: 3393
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 481
+Epsilon: 0.6180161677532153
+Reward (sum): 162.0
+Action index: 1
+cWnd: 3393
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 482
+Epsilon: 0.6173981515854621
+Reward (sum): 164.0
+Action index: 1
+cWnd: 3393
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 483
+Epsilon: 0.6167807534338766
+Reward (sum): 166.0
+Action index: 1
+Value initialization ...
+cWnd: 3393
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 484
+Epsilon: 0.6161639726804428
+Reward (sum): 168.0
+Action index: 1
+cWnd: 3393
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 485
+Epsilon: 0.6155478087077623
+Reward (sum): 170.0
+Action index: 1
+Value initialization ...
+cWnd: 3393
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 486
+Epsilon: 0.6149322608990545
+Reward (sum): 172.0
+Action index: 1
+Value initialization ...
+cWnd: 3393
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 487
+Epsilon: 0.6143173286381555
+Reward (sum): 174.0
+Action index: 1
+Value initialization ...
+cWnd: 3393
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 488
+Epsilon: 0.6137030113095173
+Reward (sum): 176.0
+Action index: 1
+cWnd: 3393
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 489
+Epsilon: 0.6130893082982078
+Reward (sum): 178.0
+Action index: 1
+Value initialization ...
+cWnd: 3393
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 490
+Epsilon: 0.6124762189899097
+Reward (sum): 180.0
+Action index: 0
+Value initialization ...
+cWnd: 3392
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 491
+Epsilon: 0.6118637427709198
+Reward (sum): 182.0
+Action index: 1
+cWnd: 3392
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 492
+Epsilon: 0.6112518790281489
+Reward (sum): 184.0
+Action index: 1
+cWnd: 3392
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 493
+Epsilon: 0.6106406271491208
+Reward (sum): 186.0
+Action index: 1
+Value initialization ...
+cWnd: 3392
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 494
+Epsilon: 0.6100299865219717
+Reward (sum): 188.0
+Action index: 0
+Value initialization ...
+cWnd: 3391
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 495
+Epsilon: 0.6094199565354498
+Reward (sum): 190.0
+Action index: 2
+Value initialization ...
+cWnd: 3392
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 496
+Epsilon: 0.6088105365789144
+Reward (sum): 192.0
+Action index: 2
+Value initialization ...
+cWnd: 3393
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 497
+Epsilon: 0.6082017260423355
+Reward (sum): 194.0
+Action index: 0
+Value initialization ...
+cWnd: 3392
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 498
+Epsilon: 0.6075935243162931
+Reward (sum): 196.0
+Action index: 2
+Value initialization ...
+cWnd: 3393
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 499
+Epsilon: 0.6069859307919768
+Reward (sum): 198.0
+Action index: 0
+Value initialization ...
+cWnd: 3392
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 500
+Epsilon: 0.6063789448611848
+Reward (sum): 200.0
+Start episode: 5
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 501
+Epsilon: 0.6057725659163237
+Reward (sum): 2.0
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 502
+Epsilon: 0.6051667933504074
+Reward (sum): 4.0
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 503
+Epsilon: 0.6045616265570569
+Reward (sum): 6.0
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 504
+Epsilon: 0.6039570649304998
+Reward (sum): 8.0
+Action index: 1
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 505
+Epsilon: 0.6033531078655693
+Reward (sum): 10.0
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 506
+Epsilon: 0.6027497547577038
+Reward (sum): 12.0
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 507
+Epsilon: 0.602147005002946
+Reward (sum): 14.0
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 508
+Epsilon: 0.6015448579979431
+Reward (sum): 16.0
+Action index: 1
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 509
+Epsilon: 0.6009433131399452
+Reward (sum): 18.0
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 510
+Epsilon: 0.6003423698268052
+Reward (sum): 20.0
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 511
+Epsilon: 0.5997420274569785
+Reward (sum): 22.0
+Action index: 1
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 512
+Epsilon: 0.5991422854295215
+Reward (sum): 24.0
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 513
+Epsilon: 0.598543143144092
+Reward (sum): 26.0
+Action index: 1
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 514
+Epsilon: 0.5979446000009478
+Reward (sum): 28.0
+Action index: 0
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 515
+Epsilon: 0.5973466554009469
+Reward (sum): 30.0
+Action index: 1
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 516
+Epsilon: 0.596749308745546
+Reward (sum): 32.0
+Action index: 2
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 517
+Epsilon: 0.5961525594368005
+Reward (sum): 34.0
+Action index: 2
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 518
+Epsilon: 0.5955564068773637
+Reward (sum): 36.0
+Action index: 1
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 519
+Epsilon: 0.5949608504704863
+Reward (sum): 38.0
+Action index: 1
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 520
+Epsilon: 0.5943658896200158
+Reward (sum): 40.0
+Action index: 0
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 521
+Epsilon: 0.5937715237303958
+Reward (sum): 42.0
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 522
+Epsilon: 0.5931777522066654
+Reward (sum): 44.0
+Action index: 1
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 523
+Epsilon: 0.5925845744544587
+Reward (sum): 46.0
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 524
+Epsilon: 0.5919919898800042
+Reward (sum): 48.0
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 525
+Epsilon: 0.5913999978901242
+Reward (sum): 50.0
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 526
+Epsilon: 0.590808597892234
+Reward (sum): 52.0
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 527
+Epsilon: 0.5902177892943418
+Reward (sum): 54.0
+Action index: 2
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 528
+Epsilon: 0.5896275715050474
+Reward (sum): 56.0
+Action index: 1
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 529
+Epsilon: 0.5890379439335424
+Reward (sum): 58.0
+Action index: 1
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 530
+Epsilon: 0.5884489059896089
+Reward (sum): 60.0
+Action index: 2
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 531
+Epsilon: 0.5878604570836192
+Reward (sum): 62.0
+Action index: 1
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 532
+Epsilon: 0.5872725966265356
+Reward (sum): 64.0
+Action index: 1
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 533
+Epsilon: 0.5866853240299091
+Reward (sum): 66.0
+Action index: 1
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 534
+Epsilon: 0.5860986387058792
+Reward (sum): 68.0
+Action index: 1
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 535
+Epsilon: 0.5855125400671733
+Reward (sum): 70.0
+Action index: 1
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 536
+Epsilon: 0.5849270275271061
+Reward (sum): 72.0
+Action index: 0
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 537
+Epsilon: 0.584342100499579
+Reward (sum): 74.0
+Action index: 1
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 538
+Epsilon: 0.5837577583990794
+Reward (sum): 76.0
+Action index: 2
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 539
+Epsilon: 0.5831740006406804
+Reward (sum): 78.0
+Action index: 0
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 540
+Epsilon: 0.5825908266400397
+Reward (sum): 80.0
+Action index: 1
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 541
+Epsilon: 0.5820082358133997
+Reward (sum): 82.0
+Action index: 0
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 542
+Epsilon: 0.5814262275775862
+Reward (sum): 84.0
+Action index: 0
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 543
+Epsilon: 0.5808448013500086
+Reward (sum): 86.0
+Action index: 1
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 544
+Epsilon: 0.5802639565486586
+Reward (sum): 88.0
+Action index: 1
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 545
+Epsilon: 0.57968369259211
+Reward (sum): 90.0
+Action index: 1
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 546
+Epsilon: 0.5791040088995179
+Reward (sum): 92.0
+Action index: 0
+Value initialization ...
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 547
+Epsilon: 0.5785249048906184
+Reward (sum): 94.0
+Action index: 1
+Value initialization ...
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 548
+Epsilon: 0.5779463799857277
+Reward (sum): 96.0
+Action index: 1
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 549
+Epsilon: 0.577368433605742
+Reward (sum): 98.0
+Action index: 1
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 550
+Epsilon: 0.5767910651721362
+Reward (sum): 100.0
+Action index: 2
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 551
+Epsilon: 0.576214274106964
+Reward (sum): 102.0
+Action index: 1
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 552
+Epsilon: 0.5756380598328571
+Reward (sum): 104.0
+Action index: 1
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 553
+Epsilon: 0.5750624217730242
+Reward (sum): 106.0
+Action index: 0
+Value initialization ...
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 554
+Epsilon: 0.5744873593512512
+Reward (sum): 108.0
+Action index: 2
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 555
+Epsilon: 0.5739128719918999
+Reward (sum): 110.0
+Action index: 1
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 556
+Epsilon: 0.573338959119908
+Reward (sum): 112.0
+Action index: 2
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 557
+Epsilon: 0.572765620160788
+Reward (sum): 114.0
+Action index: 0
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 558
+Epsilon: 0.5721928545406272
+Reward (sum): 116.0
+Action index: 1
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 559
+Epsilon: 0.5716206616860866
+Reward (sum): 118.0
+Action index: 1
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 560
+Epsilon: 0.5710490410244006
+Reward (sum): 120.0
+Action index: 1
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 561
+Epsilon: 0.5704779919833761
+Reward (sum): 122.0
+Action index: 1
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 562
+Epsilon: 0.5699075139913927
+Reward (sum): 124.0
+Action index: 1
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 563
+Epsilon: 0.5693376064774013
+Reward (sum): 126.0
+Action index: 1
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 564
+Epsilon: 0.5687682688709239
+Reward (sum): 128.0
+Action index: 1
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 565
+Epsilon: 0.5681995006020529
+Reward (sum): 130.0
+Action index: 2
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 566
+Epsilon: 0.5676313011014509
+Reward (sum): 132.0
+Action index: 0
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 567
+Epsilon: 0.5670636698003494
+Reward (sum): 134.0
+Action index: 0
+Value initialization ...
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 568
+Epsilon: 0.5664966061305491
+Reward (sum): 136.0
+Action index: 1
+Value initialization ...
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 569
+Epsilon: 0.5659301095244186
+Reward (sum): 138.0
+Action index: 1
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 570
+Epsilon: 0.5653641794148941
+Reward (sum): 140.0
+Action index: 2
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 571
+Epsilon: 0.5647988152354793
+Reward (sum): 142.0
+Action index: 1
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 572
+Epsilon: 0.5642340164202437
+Reward (sum): 144.0
+Action index: 0
+Value initialization ...
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 573
+Epsilon: 0.5636697824038235
+Reward (sum): 146.0
+Action index: 1
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 574
+Epsilon: 0.5631061126214196
+Reward (sum): 148.0
+Action index: 1
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 575
+Epsilon: 0.5625430065087982
+Reward (sum): 150.0
+Action index: 1
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 576
+Epsilon: 0.5619804635022894
+Reward (sum): 152.0
+Action index: 1
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 577
+Epsilon: 0.561418483038787
+Reward (sum): 154.0
+Action index: 1
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 578
+Epsilon: 0.5608570645557482
+Reward (sum): 156.0
+Action index: 0
+Value initialization ...
+cWnd: 3397
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 579
+Epsilon: 0.5602962074911925
+Reward (sum): 158.0
+Action index: 1
+cWnd: 3397
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 580
+Epsilon: 0.5597359112837013
+Reward (sum): 160.0
+Action index: 2
+Value initialization ...
+cWnd: 3398
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 581
+Epsilon: 0.5591761753724176
+Reward (sum): 162.0
+Action index: 2
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 582
+Epsilon: 0.5586169991970452
+Reward (sum): 164.0
+Action index: 1
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 583
+Epsilon: 0.5580583821978482
+Reward (sum): 166.0
+Action index: 2
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 584
+Epsilon: 0.5575003238156504
+Reward (sum): 168.0
+Action index: 1
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 585
+Epsilon: 0.5569428234918348
+Reward (sum): 170.0
+Action index: 1
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 586
+Epsilon: 0.5563858806683429
+Reward (sum): 172.0
+Action index: 0
+Value initialization ...
+cWnd: 3399
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 587
+Epsilon: 0.5558294947876746
+Reward (sum): 174.0
+Action index: 2
+Value initialization ...
+cWnd: 3400
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 588
+Epsilon: 0.5552736652928869
+Reward (sum): 176.0
+Action index: 2
+Value initialization ...
+cWnd: 3401
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 589
+Epsilon: 0.5547183916275941
+Reward (sum): 178.0
+Action index: 2
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 590
+Epsilon: 0.5541636732359665
+Reward (sum): 180.0
+Action index: 2
+Value initialization ...
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 591
+Epsilon: 0.5536095095627305
+Reward (sum): 182.0
+Action index: 0
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 592
+Epsilon: 0.5530559000531677
+Reward (sum): 184.0
+Action index: 1
+Value initialization ...
+cWnd: 3402
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 593
+Epsilon: 0.5525028441531146
+Reward (sum): 186.0
+Action index: 2
+Value initialization ...
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 594
+Epsilon: 0.5519503413089615
+Reward (sum): 188.0
+Action index: 1
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 595
+Epsilon: 0.5513983909676525
+Reward (sum): 190.0
+Action index: 1
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 596
+Epsilon: 0.5508469925766849
+Reward (sum): 192.0
+Action index: 2
+Value initialization ...
+cWnd: 3404
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 597
+Epsilon: 0.5502961455841082
+Reward (sum): 194.0
+Action index: 2
+Value initialization ...
+cWnd: 3405
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 598
+Epsilon: 0.5497458494385241
+Reward (sum): 196.0
+Action index: 0
+Value initialization ...
+cWnd: 3404
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 599
+Epsilon: 0.5491961035890855
+Reward (sum): 198.0
+Action index: 0
+Value initialization ...
+cWnd: 3403
+Target: array([[0., 1., 0.]], dtype=float32)
+Num steps: 600
+Epsilon: 0.5486469074854965
+Reward (sum): 200.0
